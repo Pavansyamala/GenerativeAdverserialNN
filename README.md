@@ -5,4 +5,18 @@
 ### Discriminator Model Architecture and Summary 
 <img width="456" alt="Screenshot 2023-08-23 194230" src="https://github.com/Pavansyamala/GenerativeAdverserialNN/assets/123885609/9dc7217e-5986-4b63-9cd3-5b3bd946c014">
 
-![discriminator](https://github.com/Pavansyamala/GenerativeAdverserialNN/assets/123885609/3156d5f3-9083-4dba-a4a3-472a35958f23)
+![discriminator](https://github.com/Pavansyamala/GenerativeAdverserialNN/assets/123885609/3156d5f3-9083-4dba-a4a3-472a35958f23) 
+
+
+<div style="display: flex;">
+  <figure style="margin-right: 20px;">
+    <img width="456" alt="Screenshot 2023-08-23 194230" src="https://github.com/Pavansyamala/GenerativeAdverserialNN/assets/123885609/9dc7217e-5986-4b63-9cd3-5b3bd946c014">
+    <figcaption>Image Name: Screenshot 2023-08-23 194230</figcaption>
+  </figure>
+  
+  <figure>
+    <img width="456" alt="Screenshot 2023-08-23 194230" src="https://github.com/Pavansyamala/GenerativeAdverserialNN/assets/123885609/3156d5f3-9083-4dba-a4a3-472a35958f23">
+    <figcaption>Image Name: Screenshot 2023-08-23 194230</figcaption>
+  </figure>
+</div>
+
